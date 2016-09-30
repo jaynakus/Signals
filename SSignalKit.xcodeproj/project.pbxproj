@@ -141,6 +141,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6EA2C4631D9E719C00782B98 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		6EA2C4641D9E71C400782B98 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6EA2C4651D9E71ED00782B98 /* SSignalKit.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = SSignalKit.podspec; sourceTree = "<group>"; };
 		D0085AB11B28285400EAF753 /* SSignal+Timing.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "SSignal+Timing.m"; sourceTree = "<group>"; };
 		D0085AB21B28285400EAF753 /* SThreadPool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SThreadPool.m; sourceTree = "<group>"; };
 		D0085AB31B28285400EAF753 /* SQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SQueue.m; sourceTree = "<group>"; };
@@ -350,6 +353,9 @@
 		D0445DCE1A7C2CA500267924 = {
 			isa = PBXGroup;
 			children = (
+				6EA2C4651D9E71ED00782B98 /* SSignalKit.podspec */,
+				6EA2C4641D9E71C400782B98 /* README.md */,
+				6EA2C4631D9E719C00782B98 /* LICENSE */,
 				D0445DDA1A7C2CA500267924 /* SSignalKit */,
 				D0445DE71A7C2CA500267924 /* SSignalKitTests */,
 				D0085B231B282B9800EAF753 /* SwiftSignalKit */,
@@ -1404,6 +1410,7 @@
 				D0B417F51D7DFA63004562A4 /* Hockeyapp */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
