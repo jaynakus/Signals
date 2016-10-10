@@ -30,4 +30,4 @@ To integrate Swift version:
 pod 'SSignalKit/Swift', '~> 0.0.4'
 ```
 
-Note: This version is just podspec added to original project by @peter-iakovlev
+Note: This is just podspec-added fork of original project by @peter-iakovlev.
